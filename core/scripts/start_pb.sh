@@ -1,1 +1,1 @@
-pb/pocketbase serve
+pb/pocketbase serve --port $PORT
